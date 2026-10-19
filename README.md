@@ -106,6 +106,14 @@ python tools/test.py \
 
 This release keeps the HPP implementation together with the MMPose API/demo/resource files needed for normal source-tree use. Confirmed non-upstream experimental modules that are unrelated to the current `hpp.py` execution path have been removed. The `configs/` directory is intentionally left byte-for-byte unchanged in this cleanup pass; therefore, historical research configs that reference removed experimental modules are retained as records but are not part of the supported release path. The supported reference path is `hpp.py`.
 
+## Acknowledgement
+
+This repository is built upon [MMPose](https://github.com/open-mmlab/mmpose). We sincerely thank the MMPose team for providing the open-source pose estimation framework and infrastructure used in this project.
+
+We also thank the authors of the following works for releasing their code and for their contributions to language-guided animal pose estimation:
+
+- **CLAMP (CVPR 2023)** — [GitHub](https://github.com/xuzhang1199/CLAMP)
+- **PPAP (CVPR 2025)** — [GitHub](https://github.com/Raojiyong/PPAP)
 ## Citation
 
 If this work is useful for your research, please cite the paper. Citation metadata is provided in `CITATION.cff`.
