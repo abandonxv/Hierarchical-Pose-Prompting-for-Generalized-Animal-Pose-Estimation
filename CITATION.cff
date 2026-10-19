@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our ACM Multimedia 2026 paper."
+title: "Hierarchical Pose Prompting for Generalized Animal Pose Estimation"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Zhicheng
+  - family-names: Ma
+    given-names: Zeyu
+  - family-names: Fang
+    given-names: Wei
+  - family-names: Zhao
+    given-names: Xianbing
+  - family-names: Feng
+    given-names: Zhenhua
+preferred-citation:
+  type: conference-paper
+  title: "Hierarchical Pose Prompting for Generalized Animal Pose Estimation"
+  authors:
+    - family-names: Xu
+      given-names: Zhicheng
+    - family-names: Ma
+      given-names: Zeyu
+    - family-names: Fang
+      given-names: Wei
+    - family-names: Zhao
+      given-names: Xianbing
+    - family-names: Feng
+      given-names: Zhenhua
+  collection-title: "Proceedings of the 34th ACM International Conference on Multimedia (MM '26)"
+  year: 2026
+  doi: "10.1145/3767308.3835783"
